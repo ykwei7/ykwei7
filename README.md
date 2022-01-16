@@ -8,6 +8,7 @@
 **ykwei7/ykwei7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+- ✨ I'm interested in doing software and web development projects
 - 🔭 I’m currently working on a personal portfolio page
 - 🌱 I’m currently learning web development
 - 📫 How to reach me: yangkenw@u.nus.edu
