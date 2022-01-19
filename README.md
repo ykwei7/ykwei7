@@ -14,3 +14,4 @@
 - 📫 How to reach me: yangkenw@u.nus.edu
 - ⚡ Fun fact: I really like doing calisthenics in my freetime! :)
 
+Find out more about me over [here](https://yangkenw.netlify.app/)!
