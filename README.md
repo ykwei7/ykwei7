@@ -9,8 +9,8 @@
 -->
 
 - ✨ I'm interested in doing software and web development projects
-- 🔭 I’m currently working on a personal portfolio page
-- 🌱 I’m currently learning web development
+- 🔭 I’m currently creating a telegram bot to build habits
+- 🌱 I’m currently learning how to do a handstand
 - 📫 How to reach me: yangkenw@u.nus.edu
 - ⚡ Fun fact: I really like doing calisthenics in my freetime! :)
 
